@@ -1,0 +1,7 @@
+.env
+<<<<<<< HEAD
+__pycache__/
+*.db
+=======
+__pycache__/
+>>>>>>> 1e9e5fefd58715e60599fd17a473965eefb83cd1
